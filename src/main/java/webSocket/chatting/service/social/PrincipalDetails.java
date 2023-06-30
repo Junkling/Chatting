@@ -1,6 +1,6 @@
-package WebSocket.Chatting.service.social;
+package webSocket.chatting.service.social;
 
-import WebSocket.Chatting.dto.ChatUserDto;
+import webSocket.chatting.dto.ChatUserDto;
 import lombok.Data;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

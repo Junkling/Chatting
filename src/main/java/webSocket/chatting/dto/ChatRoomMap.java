@@ -1,4 +1,4 @@
-package WebSocket.Chatting.dto;
+package webSocket.chatting.dto;
 
 import lombok.Data;
 

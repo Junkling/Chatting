@@ -1,4 +1,4 @@
-package WebSocket.Chatting.rct;
+package webSocket.chatting.rct;
 
 import com.google.gson.JsonObject;
 import lombok.Data;

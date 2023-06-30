@@ -1,6 +1,6 @@
-package WebSocket.Chatting.dto;
+package webSocket.chatting.dto;
 
-import WebSocket.Chatting.rct.KurentoUserSession;
+import webSocket.chatting.rct.KurentoUserSession;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
@@ -13,8 +13,6 @@ import org.antlr.v4.runtime.misc.NotNull;
 import org.kurento.client.Continuation;
 import org.kurento.client.KurentoClient;
 import org.kurento.client.MediaPipeline;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.web.socket.WebSocketSession;
 
 import javax.annotation.PreDestroy;

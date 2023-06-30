@@ -1,4 +1,4 @@
-package WebSocket.Chatting.dto;
+package webSocket.chatting.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
